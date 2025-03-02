@@ -114,3 +114,15 @@ JMX欲しいですか？アプリのAPI構成に合わせたテンプレ作り�
 まずはこのロードマップを元に始めてみましょう！  
 何か補足や「こういう機能もテストしたい」みたいなリクエストがあれば教えてください。  
 実際に触りながら進めるのが一番早いですよ！
+
+
+
+
+
+### javaをインストール
+- https://adoptium.net/
+
+### jmeterをインストール
+- https://jmeter.apache.org/download_jmeter.cgi
+- 解凍などして、どこかにおく。
+apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\jmeter.batをクリックで起動
