@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1740822338899,25,Create User,200,OK,Thread Group 1-1,text,true,,184,232,1,1,http://127.0.0.1:8000/users,22,0,17
+1740822339962,2,Get User,200,OK,Thread Group 1-1,text,true,,184,156,1,1,http://127.0.0.1:8000/users/12,2,0,0
+1740822340968,6,Update User,200,OK,Thread Group 1-1,text,true,,200,270,1,1,http://127.0.0.1:8000/users/12,6,0,0
+1740822341988,11,Delete User,200,OK,Thread Group 1-1,text,true,,151,178,1,1,http://127.0.0.1:8000/users/12,11,0,0
